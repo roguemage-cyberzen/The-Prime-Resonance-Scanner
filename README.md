@@ -6,7 +6,7 @@ the PRS treats prime numbers as constructive interference events within a wave f
 
 ## 🔍 Overview
 The PRS operates on the principle of Relativistic Phase Alignment. By utilizing a high-precision library of Riemann harmonics ($M$), the engine tunes a relativistic oscillator to the frequency $\omega = \ln(N)$.When the coordinate $N$ corresponds to a prime, the harmonics reach a Phase Lock, producing a significant Signal-to-Noise Ratio (SNR). Composite coordinates result in destructive interference, effectively "canceling" the signal.
-** Key FeaturesSingularity Shield: Suppresses the infinite resonance of the $N=1$ fundamental frequency.
-** Synchronized Parity Gate: A $\sin^2(\pi N/2)$ logic filter that short-circuits even-coordinate noise.
-** Spectral Librarian: High-precision pre-processor (1000 dps) for harmonic aperture acquisition.
-** Pattern Overlay: Visual coherence analysis comparing active scans against saved prime fingerprints.
+* ** Key FeaturesSingularity Shield: Suppresses the infinite resonance of the $N=1$ fundamental frequency.
+* ** Synchronized Parity Gate: A $\sin^2(\pi N/2)$ logic filter that short-circuits even-coordinate noise.
+* ** Spectral Librarian: High-precision pre-processor (1000 dps) for harmonic aperture acquisition.
+* ** Pattern Overlay: Visual coherence analysis comparing active scans against saved prime fingerprints.
