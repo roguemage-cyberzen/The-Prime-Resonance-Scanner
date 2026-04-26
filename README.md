@@ -35,10 +35,11 @@ The Dashboard provides a real-time visualization of the resonance field and stru
 streamlit run PrimeDashboard.py
 ```
 ## 📊 Technical Nomenclature
-Term,Function
-Aperture (M),The number of Riemann harmonics used to resolve the resonance.
-SNR,Signal-to-Noise Ratio; SNR>3.0 indicates a high-confidence prime lock.
-Relativistic Shift,Logarithmic frequency correction to account for number line stretching.
-Ghost Peak,"Harmonic leakage from composite squares (e.g., N=9)."
+| Term | Function |
+|------|----------|
+| Aperture (M) | The number of Riemann harmonics used to resolve the resonance.|
+| SNR | |Signal-to-Noise Ratio; SNR>3.0 indicates a high-confidence prime lock.|
+| Relativistic Shift | Logarithmic frequency correction to account for number line stretching.|
+| Ghost Peak | "Harmonic leakage from composite squares (e.g., N=9)."|
 
 
