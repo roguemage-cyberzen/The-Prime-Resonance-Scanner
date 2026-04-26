@@ -42,4 +42,14 @@ streamlit run PrimeDashboard.py
 | Relativistic Shift | Logarithmic frequency correction to account for number line stretching.|
 | Ghost Peak | "Harmonic leakage from composite squares (e.g., N=9)."|
 
+## 📜 Research Context
+This project is part of a broader whitepaper series exploring complexity reduction and emergent reality:
+* The Participatory Microstate (2026)
+* The Reasoning Engine (2026)
+* Spectral Logic: Bridging Completeness and Complexity (Ongoing)
+
+## 🧪 Experimental Status: The 100k Frontier
+Current Resolution: $M=25,000$
+Objective: Expanding to $M=100,000$ to resolve the $10^{300}$ resonance and break the current SNR flatline observed at ultra-high magnitudes.
+
 
