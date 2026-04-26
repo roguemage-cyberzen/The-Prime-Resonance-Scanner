@@ -12,3 +12,29 @@ When the coordinate $N$ corresponds to a prime, the harmonics reach a Phase Lock
 * **Synchronized Parity Gate**: A $\sin^2(\pi N/2)$ logic filter that short-circuits even-coordinate noise.
 * **Spectral Librarian**: High-precision pre-processor (1000 dps) for harmonic aperture acquisition.
 * **Pattern Overlay**: Visual coherence analysis comparing active scans against saved prime fingerprints.
+
+## 🛠️ Installation & Environment
+This suite is optimized for Debian Linux and utilizes the mpmath library for arbitrary-precision transcendentals.
+Install all required dependencies with a single command:
+```bash
+# Clone the repository
+git clone https://github.com/roguemage/Prime-Resonance-Scanner.git
+cd Prime-Resonance-Scanner
+
+# Install dependencies
+pip install mpmath streamlit pandas matplotlib
+```
+🚀 Usage
+Run the librarian to generate your spectral library.
+```bash
+python3 Spectral_Librarian.py
+```
+Launch the Diagnostic Dashboard
+The Dashboard provides a real-time visualization of the resonance field and structural coherence scoring.
+```bash
+streamlit run PrimeDashboard.py
+```
+
+
+
+
